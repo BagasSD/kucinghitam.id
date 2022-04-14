@@ -1,0 +1,19 @@
+/* IMPORT FONT */
+@font-face {
+    font-family: "Brandon-Regular";
+    src: url("../font/brandon_reg.ttf");
+}
+
+@font-face {
+  font-family: "Brandon-Medium";
+  src: url("../font/brandon_med.ttf");
+}
+
+@font-face {
+  font-family: "Brandon-Bold";
+  src: url("../font/brandon_bld.ttf");
+}
+
+* {
+  font-family: Brandon-Regular;
+}
